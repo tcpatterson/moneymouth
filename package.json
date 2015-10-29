@@ -1,0 +1,27 @@
+{
+  "name": "moneymouth",
+  "version": "1.0.0",
+  "description": "Have your terminal read out your Stripe transactions live as they happen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcpatterson/moneymouth.git"
+  },
+  "keywords": [
+    "stripe",
+    "money"
+  ],
+  "author": "Connor Patterson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tcpatterson/moneymouth/issues"
+  },
+  "homepage": "https://github.com/tcpatterson/moneymouth#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
